@@ -1,0 +1,45 @@
+.remove {
+    display: none;
+    flex-wrap: nowrap;
+    border: 0px;
+    width: 0%;
+    height: 0%;
+}
+
+#subButton {
+    width: 100px;
+    height: 100px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.file {
+    display: flex;
+    flex-wrap: wrap;
+    height: 1000px;
+    width: 500px;
+}
+
+.name {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.prison-label {
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+.veto {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
